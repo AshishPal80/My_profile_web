@@ -2,10 +2,8 @@
 
 > Add screenshots here.
 
-```md
 <img src="assets/images/Screenshot.png" alt="Description of the image" width="500" height="300">
 
-```
 
 ---
 
