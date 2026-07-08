@@ -3,7 +3,8 @@
 > Add screenshots here.
 
 ```md
-![Homepage](assets/images/Screenshot.png)
+<img src="assets/images/Screenshot.png" alt="Description of the image" width="500" height="300">
+
 ```
 
 ---
