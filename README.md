@@ -1,7 +1,5 @@
 ## 📸 Screenshots
 
-> Add screenshots here.
-
 <img src="assets/images/Screenshot.png" alt="Description of the image">
 
 
