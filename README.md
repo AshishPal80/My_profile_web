@@ -6,7 +6,7 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 
 👉 https://ashishpal80.github.io/My_profile_web/
 
-> *(Update the URL if your deployed website is hosted elsewhere.)*
+https://portfolioofaashish.netlify.app/
 
 ---
 
@@ -99,8 +99,8 @@ You can easily customize:
 **Ashish Pal**
 
 - GitHub: https://github.com/AshishPal80
-- LinkedIn: *(Add your LinkedIn profile)*
-- Email: *(Add your email address)*
+- LinkedIn: https://www.linkedin.com/in/ashish-pal-635a02380
+- Email: ashish1814pal@gmail.com
 
 ---
 
