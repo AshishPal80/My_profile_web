@@ -3,7 +3,7 @@
 > Add screenshots here.
 
 ```md
-![Homepage](assets/images/screenshot.png)
+![Homepage](assets/images/Screenshot.png)
 ```
 
 ---
