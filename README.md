@@ -1,3 +1,14 @@
+## 📸 Screenshots
+
+> Add screenshots here.
+
+```md
+![Homepage](images/screenshot.png)
+```
+
+---
+
+
 # 🌐 My Portfolio Website
 
 A modern, responsive personal portfolio website showcasing my skills, projects, experience, and contact information. Built to create a strong online presence and demonstrate my web development expertise.
@@ -48,16 +59,6 @@ My_profile_web/
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here.
-
-```md
-![Homepage](images/screenshot.png)
-```
-
----
-
 ## 💻 Getting Started
 
 ### Clone the repository
@@ -99,7 +100,7 @@ You can easily customize:
 **Ashish Pal**
 
 - GitHub: https://github.com/AshishPal80
-- LinkedIn: https://www.linkedin.com/in/ashish-pal-635a02380
+- LinkedIn :     https://www.linkedin.com/in/ashish-pal -635a02380
 - Email: ashish1814pal@gmail.com
 
 ---
