@@ -1,11 +1,3 @@
-## 📸 Screenshots
-
-<img src="assets/images/Screenshot.png" alt="Description of the image">
-
-
----
-
-
 # 🌐 My Portfolio Website
 
 A modern, responsive personal portfolio website showcasing my skills, projects, experience, and contact information. Built to create a strong online presence and demonstrate my web development expertise.
@@ -15,6 +7,14 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 👉 https://ashishpal80.github.io/My_profile_web/
 
 https://portfolioofaashish.netlify.app/
+
+---
+
+
+## 📸 Screenshots
+
+<img src="assets/images/Screenshot.png" alt="Description of the image">
+
 
 ---
 
