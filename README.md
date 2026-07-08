@@ -35,9 +35,6 @@ https://portfolioofaashish.netlify.app/
 
 - HTML5
 - CSS3
-- JavaScript
-- Bootstrap (if used)
-- Font Awesome
 
 ---
 
@@ -47,10 +44,8 @@ https://portfolioofaashish.netlify.app/
 My_profile_web/
 │
 ├── index.html
-├── css/
-├── js/
-├── images/
-├── assets/
+├── style.css
+├── assets/images
 └── README.md
 ```
 
@@ -99,33 +94,6 @@ You can easily customize:
 - GitHub: https://github.com/AshishPal80
 - LinkedIn :     https://www.linkedin.com/in/ashish-pal-635a02380
 - Email: ashish1814pal@gmail.com
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome.
-
-1. Fork the repository
-2. Create your feature branch
-
-```bash
-git checkout -b feature/AmazingFeature
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Add Amazing Feature"
-```
-
-4. Push to the branch
-
-```bash
-git push origin feature/AmazingFeature
-```
-
-5. Open a Pull Request
 
 ---
 
