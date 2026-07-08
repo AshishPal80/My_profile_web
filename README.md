@@ -100,7 +100,7 @@ You can easily customize:
 **Ashish Pal**
 
 - GitHub: https://github.com/AshishPal80
-- LinkedIn :     https://www.linkedin.com/in/ashish-pal -635a02380
+- LinkedIn :     https://www.linkedin.com/in/ashish-pal-635a02380
 - Email: ashish1814pal@gmail.com
 
 ---
