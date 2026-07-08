@@ -2,7 +2,7 @@
 
 > Add screenshots here.
 
-<img src="assets/images/Screenshot.png" alt="Description of the image" width="500" height="300">
+<img src="assets/images/Screenshot.png" alt="Description of the image">
 
 
 ---
